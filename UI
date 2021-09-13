@@ -154,7 +154,7 @@ function library:CreateWindow(text)
 	ToggleWindowBtn.Name = "ToggleWindowBtn"
 	ToggleWindowBtn.Parent = Header
 	ToggleWindowBtn.AnchorPoint = Vector2.new(0.5, 0.5)
-	ToggleWindowBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	ToggleWindowBtn.BackgroundColor3 = Color3.fromRGB(186,85,211)
 	ToggleWindowBtn.BackgroundTransparency = 1.000
 	ToggleWindowBtn.Position = UDim2.new(0.904128313, 0, 0.499000013, 0)
 	ToggleWindowBtn.Rotation = 90.000
