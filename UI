@@ -133,7 +133,7 @@ function library:CreateWindow(text)
 	Header.BackgroundTransparency = 1.000
 	Header.Size = UDim2.new(0, 187, 0, 30)
 	Header.Image = "rbxassetid://3570695787"
-	Header.ImageColor3 = Color3.fromRGB(16, 16, 16)
+	Header.ImageColor3 = Color3.fromRGB(186,85,211)
 	Header.ScaleType = Enum.ScaleType.Slice
 	Header.SliceCenter = Rect.new(100, 100, 100, 100)
 	Header.SliceScale = 0.040
