@@ -121,7 +121,7 @@ function library:CreateWindow(text)
 	Frame.Position = UDim2.new(0, (40 + (200 * library.WindowCount) - 200), 0, 11)
 	Frame.Size = UDim2.new(0, 187, 0, UIListLayout1.AbsoluteContentSize.Y + 45)
 	Frame.Image = "rbxassetid://3570695787"
-	Frame.ImageColor3 = Color3.fromRGB(26, 26, 26)
+	Frame.ImageColor3 = Color3.fromRGB(186,85,211)
 	Frame.ScaleType = Enum.ScaleType.Slice
 	Frame.SliceCenter = Rect.new(100, 100, 100, 100)
 	Frame.SliceScale = 0.040
