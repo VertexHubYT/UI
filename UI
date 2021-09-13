@@ -140,7 +140,7 @@ function library:CreateWindow(text)
 	
 	ObjectFrame.Name = "ObjectFrame"
 	ObjectFrame.Parent = Header
-	ObjectFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	ObjectFrame.BackgroundColor3 = Color3.fromRGB(186,85,211)
 	ObjectFrame.BackgroundTransparency = 1.000
 	ObjectFrame.Position = UDim2.new(0.0374331549, 0, 1.23090911, 0)
 	ObjectFrame.Size = UDim2.new(0, 173, 0, Frame.Size.Y.Offset - 45)
