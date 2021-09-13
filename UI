@@ -129,7 +129,7 @@ function library:CreateWindow(text)
 	
 	Header.Name = "Header"
 	Header.Parent = Frame
-	Header.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	Header.BackgroundColor3 = Color3.fromRGB(186,85,211)
 	Header.BackgroundTransparency = 1.000
 	Header.Size = UDim2.new(0, 187, 0, 30)
 	Header.Image = "rbxassetid://3570695787"
