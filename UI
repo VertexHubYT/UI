@@ -234,7 +234,7 @@ function library:CreateWindow(text)
         Roundify.Parent = Button
         Roundify.Active = true
         Roundify.AnchorPoint = Vector2.new(0.5, 0.5)
-        Roundify.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+        Roundify.BackgroundColor3 = Color3.fromRGB(186,85,211)
         Roundify.BackgroundTransparency = 1.000
         Roundify.Position = UDim2.new(0.5, 0, 0.5, 0)
         Roundify.Selectable = true
