@@ -115,7 +115,7 @@ function library:CreateWindow(text)
 	
 	Frame.Name = "Frame"
 	Frame.Parent = ScreenGui
-	Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	Frame.BackgroundColor3 = Color3.fromRGB(186,85,211)
 	Frame.BackgroundTransparency = 1.000
 	Frame.ClipsDescendants = false
 	Frame.Position = UDim2.new(0, (40 + (200 * library.WindowCount) - 200), 0, 11)
